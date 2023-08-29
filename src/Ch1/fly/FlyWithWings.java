@@ -1,4 +1,4 @@
-package fly;
+package Ch1.fly;
 
 public class FlyWithWings implements FlyBehavior {
     public void fly() {

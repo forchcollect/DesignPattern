@@ -1,4 +1,4 @@
-package fly;
+package Ch1.fly;
 
 public class FlyNoWay implements FlyBehavior {
     public void fly() {
